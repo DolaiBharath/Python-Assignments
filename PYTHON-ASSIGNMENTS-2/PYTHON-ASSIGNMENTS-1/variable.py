@@ -1,0 +1,14 @@
+x=5
+y="hello"
+print(x)
+print(y)
+a=int(4)
+b=float(3.9)
+c=complex(4+5j)
+print(a)
+print(b)
+print(c)
+d=str("hello")
+d=str("Hello")
+print(d.upper())
+print(d.lower())
